@@ -1,0 +1,2 @@
+python AutopilotApp_V2.py
+pause
